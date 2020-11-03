@@ -4,7 +4,7 @@
     <property name="created">2020-11-03T22:30:34</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-03T22:31:09</property>
+    <property name="modified">2020-11-03T22:33:34</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -449,7 +449,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="2db87e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -485,7 +485,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="2eb173" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -578,7 +578,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="2eb173" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
