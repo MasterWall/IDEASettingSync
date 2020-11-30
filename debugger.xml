@@ -130,9 +130,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="javascript">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
